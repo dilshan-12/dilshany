@@ -1,4 +1,4 @@
-<html>
+<! DOCTYPE html>
     <body>
 <center>
     <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
