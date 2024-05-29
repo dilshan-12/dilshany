@@ -1,5 +1,10 @@
-<! DOCTYPE html>
-    <body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page title</title>
+</head>
+<body>
 <center>
     <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
     <svg xmlns='http://www.w3.org/2000/svg'
