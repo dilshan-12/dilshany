@@ -1,4 +1,5 @@
-
+<html>
+    <body>
 <center>
     <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
     <svg xmlns='http://www.w3.org/2000/svg'
@@ -49,3 +50,5 @@
     </text>
 </svg>
 </center>
+</body>
+</html>
